@@ -2,7 +2,7 @@
 Knowledge documentation about anything.
 
 ## Progress task (will be added more)
-1. [x] Migrate AWS documentation from Google Drive.
+1. [ ] Migrate AWS documentation from Google Drive.
 2. [ ] Add "Simple Component" into **Kubernetes** documentation. 
 
 ## How to learn any new toolchains:
