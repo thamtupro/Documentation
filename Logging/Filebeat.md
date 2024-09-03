@@ -23,7 +23,7 @@
 
 ## Flow of Filebeat
 - Filebeat consisnts of 2 components: inputs and haverster
-![screenshot](./img/filebeat_1.png.png)
+![screenshot](./img/filebeat_1.png)
 
 - Flow: inputs -> harvester -> libbeat -> outputs
   - Find logs based on **input**.
