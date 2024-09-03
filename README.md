@@ -1,6 +1,12 @@
 # Documentation
 Knowledge documentation about anything.
 
+## Useful links
+- https://github.com/bregman-arie/devops-resources
+- https://github.com/bregman-arie/devops-resources?tab=readme-ov-file
+- https://github.com/BINPIPE/learning-resources/blob/master/devops.md
+- https://github.com/ytbryan/devops-resources
+
 ## Progress task (will be added more)
 1. [ ] Migrate AWS documentation from Google Drive.
 2. [ ] Add "Simple Component" into **Kubernetes** documentation. 
