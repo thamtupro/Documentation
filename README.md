@@ -6,6 +6,8 @@ Knowledge documentation about anything.
 - https://github.com/bregman-arie/devops-resources?tab=readme-ov-file
 - https://github.com/BINPIPE/learning-resources/blob/master/devops.md
 - https://github.com/ytbryan/devops-resources
+- https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources
+- 
 
 ## Progress task (will be added more)
 1. [ ] Migrate AWS documentation from Google Drive.
