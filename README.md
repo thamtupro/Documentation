@@ -31,7 +31,9 @@ Knowledge documentation about anything.
     - ELK/EFK: Elasticsearch - Logstash (+ Filebeat) / FluentD (+ FluentBit) - Kibana
     - FluentBit - Quickwit - Grafana
     - Opensearch - Data Prepper - Grafana
-6. Cloud Provider:
+6. Monitoring tools: Promotheus
+7. Disaster Recovery: Velero
+8. Cloud Provider:
     - AWS
     - Azure
     - GCloud
