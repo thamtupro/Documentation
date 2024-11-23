@@ -10,7 +10,11 @@
   - Authorization is managed through IAM policies, which define what actions (AWS API calls) users can perform within the AWS account, using JSON-based documents to specify permissions (Grant/Deny)
   - IAM Policy 
     - Example:  
-    ![screenshot](./img/mo1_1.png)
+
+    | ![screenshot](./img/mo1_1.png) | 
+    |:--:| 
+    | *2.1. IAM Policy* |  
+
       - _Version_:  Defines the version of the policy language. 
       - _Effect_: Action (Allow/Deny)
       - _Action_: AWS API call (EC2:* -> All related EC2 actions)
