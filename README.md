@@ -49,9 +49,12 @@ Any courses/services documentation will be stored in here.
 - [_AWS Cloud Technical Essentials_](https://www.coursera.org/learn/aws-cloud-technical-essentials)
 2. Linkedin Learning
 - [_DevOps Foundations: Distributed Tracing_](https://www.linkedin.com/learning/devops-foundations-distributed-tracing)
+- *DevOps Foundations: Monitoring and Observability*: [*(2023)*](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247), [*(2018)*](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability)
+- [*Prometheus Essential Traning*](https://www.linkedin.com/learning/prometheus-essential-training)
 3. Udemy
 - [_Ultimate AWS Certified Solutions Architect Associate 2025_](https://samsungu.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03)
 4. Other
 - [_DevopsEdu: Kubernetes thực tế_](https://devopsedu.vn/courses/khoa-hoc-kubenetes-thuc-te)
 - [_PromLab: Introduction to Prometheus_](https://training.promlabs.com/training/introduction-to-prometheus)
+- [*Youtube: Free CCNA 200-301 | Complete Course 2024*](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
