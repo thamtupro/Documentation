@@ -65,9 +65,8 @@
 ![screenshot](./img/mo1_9.png)
   - IAM roles can also be used for federated users, allowing existing identity systems to grant access to AWS without creating numerous IAM users.
   - This approach is efficient for organizations with many employees needing AWS access, leveraging roles assigned through identity providers.
-  
-```
-- Conclusion: To provide security enhancement, we can:  
+- Conclusion: To provide security enhancement, we can:    
+``` 
   -> Lock down root account -> Use AWS Account + IAM   
   -> **LEAST** Priviledges -> IAM Policy -> (Attach) -> IAM User (1)  
                                                      -> IAM Groups -> (Inherited) <- IAM User  
