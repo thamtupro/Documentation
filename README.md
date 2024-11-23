@@ -38,3 +38,17 @@ Knowledge documentation about anything.
     - Azure
     - GCloud
 
+## UPDATE: Courses note available now!
+0. To-do
+[ ] Migrate AWS-CLF-C02 courses's documentation from Google Drive.
+[ ] Make process from learning in company to home.
+[ ] Make process about learning an online course
+
+1. Coursera
+- AWS Cloud Technical Essentials
+2. Linkedin Learning
+- 
+3. Udemy
+- AWS Certified Solutions Architect Associate Certification SAA-C03!
+4. DevOpsEdu
+- [_Kubernetes thực tế_](https://devopsedu.vn/courses/khoa-hoc-kubenetes-thuc-te)
