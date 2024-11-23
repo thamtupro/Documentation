@@ -42,10 +42,15 @@
 - Creating and Using IAM Roles.
   - To create a role, you select the trusted entity (e.g., EC2) and assign permissions, such as access to S3 and DynamoDB:
     - AWS Console: IAM -> Role -> Create Role -> Select trusted entity -> Use case -> Select permission to add (can search)  
-    ![screenshot](./img/mo1_5.png)
-    *1. IAM -> Role -> Create Role*
-    ![screenshot](./img/mo1_6.png)
-    ![screenshot](./img/mo1_7.png)
+    | ![screenshot](./img/mo1_5.png) | 
+    |:--:| 
+    | *1. IAM -> Role -> Create Role* |
+    | ![screenshot](./img/mo1_6.png) |
+    |:--:| 
+    | *2. Select trusted entity -> Use case* |
+    | ![screenshot](./img/mo1_7.png) |
+    |:--:| 
+    | *3. Select permission to add (can search)* |
     - Naming role and review before click "create role"
     ![screenshot](./img/mo1_8.png)
 
