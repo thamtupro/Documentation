@@ -45,26 +45,31 @@
 
     | ![screenshot](./img/mo1_5.png) | 
     |:--:| 
-    | *1. IAM -> Role -> Create Role* |  
+    | *2.1. IAM -> Role -> Create Role* |  
 
     | ![screenshot](./img/mo1_6.png) |
     |:--:| 
-    | *2. Select trusted entity -> Use case* |
+    | *2.2. Select trusted entity -> Use case* |
 
     | ![screenshot](./img/mo1_7.png) |
     |:--:| 
-    | *3. Select permission to add (can search)* |
+    | *2.3. Select permission to add (can search)* |
     
     - Naming role and review before click "create role"
-    ![screenshot](./img/mo1_8.png)
+
+    | ![screenshot](./img/mo1_8.png) |
+    |:--:| 
+    | *2.4. Naming and review role before create* |
 
 - Federated Access and External Identity Providers
 ![screenshot](./img/mo1_9.png)
   - IAM roles can also be used for federated users, allowing existing identity systems to grant access to AWS without creating numerous IAM users.
   - This approach is efficient for organizations with many employees needing AWS access, leveraging roles assigned through identity providers.
-
+  
+```
 - Conclusion: To provide security enhancement, we can:  
   -> Lock down root account -> Use AWS Account + IAM   
   -> **LEAST** Priviledges -> IAM Policy -> (Attach) -> IAM User (1)  
                                                      -> IAM Groups -> (Inherited) <- IAM User  
                            -> IAM roles -> (Identity Provider) IAM Identity Center  
+```
