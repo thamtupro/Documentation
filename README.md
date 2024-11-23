@@ -33,7 +33,11 @@ Any courses/services documentation will be stored in here.
     - FluentBit - Quickwit - Grafana
     - Opensearch - Data Prepper - Grafana
     - Promtail - Loki - Grafana
-5. Monitoring management: Promotheus Jaeger, ...
+5. Monitoring management: Promotheus, Jaeger,
+- Prometheus lifecycle:
+  - Collect metric: Pushgateway, Exporters.
+  - Centralize metrics: Prometheus.
+  - Visualization: Grafana
 6. Backup/Restore Kubernetes: Velero
 7. Cloud Provider: AWS, Azure, GCloud
 
