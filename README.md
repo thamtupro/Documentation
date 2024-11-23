@@ -53,6 +53,7 @@ Any courses/services documentation will be stored in here.
 - [*Prometheus Essential Traning*](https://www.linkedin.com/learning/prometheus-essential-training)
 3. Udemy
 - [_Ultimate AWS Certified Solutions Architect Associate 2025_](https://samsungu.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03)
+- [*Master Cisco CCNA 200-301: Comprehensive All-in-One Course*](https://samsungu.udemy.com/course/ccna-jitl)
 4. Other
 - [_DevopsEdu: Kubernetes thực tế_](https://devopsedu.vn/courses/khoa-hoc-kubenetes-thuc-te)
 - [_PromLab: Introduction to Prometheus_](https://training.promlabs.com/training/introduction-to-prometheus)
