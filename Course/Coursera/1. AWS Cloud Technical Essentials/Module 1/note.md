@@ -44,7 +44,8 @@
     - AWS Console: IAM -> Role -> Create Role -> Select trusted entity -> Use case -> Select permission to add (can search)  
     | ![screenshot](./img/mo1_5.png) | 
     |:--:| 
-    | *1. IAM -> Role -> Create Role* |
+    | *1. IAM -> Role -> Create Role* |  
+
     | ![screenshot](./img/mo1_6.png) |
     |:--:| 
     | *2. Select trusted entity -> Use case* |
