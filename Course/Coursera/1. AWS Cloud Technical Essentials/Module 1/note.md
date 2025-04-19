@@ -80,8 +80,11 @@
     | *2.9. Federated Access and External Identity Providers* |
   - IAM roles can also be used for federated users, allowing existing identity systems to grant access to AWS without creating numerous IAM users.
   - This approach is efficient for organizations with many employees needing AWS access, leveraging roles assigned through identity providers.
-- Conclusion: To provide security enhancement, we can:    
-``` 
-  ![screenshot](./img/mo1_10.png)
-  ![screenshot](./img/mo1_11.png)
-```
+- Conclusion: To provide security enhancement, we can:     
+    | ![screenshot](./img/mo1_10.png) |
+    |:--:| 
+    | *2.10. Lock down Root Account* |
+    
+    | ![screenshot](./img/mo1_11.png) |
+    |:--:| 
+    | *2.11. LEAST Privilege* |
