@@ -82,8 +82,6 @@
   - This approach is efficient for organizations with many employees needing AWS access, leveraging roles assigned through identity providers.
 - Conclusion: To provide security enhancement, we can:    
 ``` 
-  -> Lock down root account -> Use AWS Account + IAM   
-  -> LEAST Priviledges -> IAM Policy -> (Attach) -> IAM User (1)  
-                                                     -> IAM Groups -> (Inherited) <- IAM User  
-                           -> IAM roles -> (Identity Provider) IAM Identity Center  
+  ![screenshot](./img/mo1_10.png)
+  ![screenshot](./img/mo1_11.png)
 ```
