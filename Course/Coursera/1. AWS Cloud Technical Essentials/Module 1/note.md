@@ -70,7 +70,7 @@
     
     - Naming role and review before click "create role"
 
-    | ![screenshot](Documentation/Course/Coursera/1.AWS%20Cloud%20Technical%20Essentials/Module%201/img/mo1_8.png) |
+    | ![screenshot](https://raw.githubusercontent.com/thamtupro/Documentation/42af86b33918865c23f023930f2fa419a4ebc147/Course/Coursera/1.%20AWS%20Cloud%20Technical%20Essentials/Module%201/img/mo1_8.png) |
     |:--:| 
     | *2.8. Naming and review role before create* |
 
