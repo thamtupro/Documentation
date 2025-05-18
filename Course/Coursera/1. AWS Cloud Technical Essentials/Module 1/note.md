@@ -70,7 +70,7 @@
     
     - Naming role and review before click "create role"
 
-    | ![screenshot](./img/mo1_8.png) |
+    | ![screenshot](https://raw.githubusercontent.com/thamtupro/Documentation/42af86b33918865c23f023930f2fa419a4ebc147/Course/Coursera/1.%20AWS%20Cloud%20Technical%20Essentials/Module%201/img/mo1_8.png) |
     |:--:| 
     | *2.8. Naming and review role before create* |
 
@@ -80,10 +80,11 @@
     | *2.9. Federated Access and External Identity Providers* |
   - IAM roles can also be used for federated users, allowing existing identity systems to grant access to AWS without creating numerous IAM users.
   - This approach is efficient for organizations with many employees needing AWS access, leveraging roles assigned through identity providers.
-- Conclusion: To provide security enhancement, we can:    
-``` 
-  -> Lock down root account -> Use AWS Account + IAM   
-  -> LEAST Priviledges -> IAM Policy -> (Attach) -> IAM User (1)  
-                                                     -> IAM Groups -> (Inherited) <- IAM User  
-                           -> IAM roles -> (Identity Provider) IAM Identity Center  
-```
+- Conclusion: To provide security enhancement, we can:     
+    | ![screenshot](./img/mo1_10.png) |
+    |:--:| 
+    | *2.10. Lock down Root Account* |
+    
+    | ![screenshot](./img/mo1_11.png) |
+    |:--:| 
+    | *2.11. LEAST Privilege* |
